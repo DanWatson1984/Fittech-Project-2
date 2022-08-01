@@ -3,6 +3,6 @@ To test the otb and the lambda function lambda_function.py you need to create an
 Fistname_Lastname
 Amazon.us_first_name_last_name
 Carat range: Amazon.number
-Cut: Amazon.shape
+Cut: Amazon.number
 Color: Amazon.letter
 Clarity: Amazon.letter_number
