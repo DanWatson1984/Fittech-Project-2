@@ -6,11 +6,13 @@ The Models:
 
 Logistic Regression Model
 Basic Neural Network
+Random Forest Model 
 
 
 
 
 Kaggle Dateset 
+Analyze diamonds by their cut, color, clarity, price, and other attributes
 About Dataset
 Context
 This classic dataset contains the prices and other attributes of almost 54,000 diamonds. It's a great dataset for beginners learning to work with data analysis and visualization.
