@@ -5,7 +5,9 @@ The Project is comparing 3 diffrent Machine learning Models to see the diffrent 
 The Models: 
 
 Logistic Regression Model
+
 Basic Neural Network
+
 Random Forest Model 
 
 
