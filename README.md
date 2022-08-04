@@ -41,3 +41,5 @@ depth total depth percentage = z / mean(x, y) = 2 * z / (x + y) (43--79)
 table width of top of diamond relative to widest point (43--95)
 
 THE RESULTS: 
+
+The result of the 3 models varied but it was clear after review that the Random Forest model was by far the most accurate. 
